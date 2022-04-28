@@ -1,0 +1,29 @@
+h1{
+color:blue;
+font-family:Savoye LET;
+font-size:76px;
+background-color:cyan;
+border-style:outset;
+border-with:40px;
+padding:20px;
+}
+
+h2{
+color:cyan;
+font-family:Brush Script MT;
+font-size:28px;
+background-color:blue;
+border-style:outset;
+border-with:40px;
+padding:20px;
+}
+
+p{
+color:hotpink;
+font-family:Brush Script MT;
+font-size:28px;
+background-color:#ffb5ff;
+border-style:outset;
+border-with:40px;
+padding:20px;
+}
